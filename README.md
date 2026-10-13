@@ -26,7 +26,7 @@
 ---
 
 - 🧪 **[LabResume](https://github.com/myyrla/LabResume)** — Intelligent resume generation and analysis
-- 🤝 **[Afiliou](https://github.com/myyrla/afiliou)** — Affiliate program management platform
+- 🤝 **[Afiliou](https://github.com/myyrla/afilliou-app)** — Affiliate program management platform
 - 📈 **[VendUp](https://github.com/myyrla/vendup)** — Solution to boost sales and results
 
 ---
